@@ -1,0 +1,23 @@
+h1{
+ font-family: courier;
+ color: blue;
+}
+
+p{
+  color: grey;
+  font-family: courier;
+  font-size: 160%;
+}
+
+#fett{
+  color: grey;
+  font-family: courier;
+  font-size: 160%;
+  font-weight: bold;
+}
+
+.rot{
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
